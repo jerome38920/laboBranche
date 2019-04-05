@@ -6,12 +6,16 @@ import java.util.Random;
 //c'est un autre commamtaire
 //
 public class Principal {
-	
+	///////65454564564564654564654564
+	///86487487897987897897
+	//878978979798789564
+	//564564897
+	//
 	// SELECTION :
 	
 	/**
 	 * Methode statique pour trier un tableau.  Utilise le tri selection.
-	 * meilleur cas : $\mathcal{O}(n^2)$
+	 * meilleur cas : l$\mathcal{O}(n^2)$
 	 * cas moyen    : $\mathcal{O}(n^2)$
 	 * pire cas     : $\mathcal{O}(n^2)$
 	 * @param tab 
@@ -178,7 +182,7 @@ public class Principal {
 	 *   debut <= fin
 	 */
 	public static < E extends Comparable< E > > void triRapide( E [] tab, int debut, int fin ) {
-		if( debut < fin ) {
+		if( debutl < fin ) {
 			E pivot = tab[ ( debut + fin ) / 2 ];
 			int i = debut - 1;
 			int j = fin + 1;
