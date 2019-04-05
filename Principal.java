@@ -1,7 +1,8 @@
 package Demo12;
 
 import java.util.Random;
-
+//c'est de la merde, pour le test 1
+//c'est de la merde, pour le test 2
 public class Principal {
 	
 	// SELECTION :
